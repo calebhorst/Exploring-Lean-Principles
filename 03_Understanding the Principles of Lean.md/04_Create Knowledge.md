@@ -1,6 +1,29 @@
-## 
+## Create Knowledge
 ```
-
+Part of being a software engineer in smaller companies, is delivering estimates. Sometimes the tasks are well defined, and you can say this will take an hour, this will take a day. But often you'll get something like, the customer wants to create an application that lets them do X with Y. With what exactly X and Y are not really nailed down. I have a purposely odd phrase I used when pressed for an estimate on these projects. The knowledge you're looking for doesn't exist in the universe. This usually gets an eye roll or two, but it gets the point across that it's not that I know and I'm unwilling to answer. It's that it's not possible to answer. The information has to be created. And while you can create an estimate in relatively short order by pinning down some broad specifics, it has been the experience of the software industry in the last 20 years that trying to do this with big design up front specifications is not tenable. What I believe is going on with the tension between detailed prescriptive design and agility in software development is the inappropriate application of the engineering model, specifically a civil engineering model to the software process. What I mean by this is that if you're going to build a bridge, a piece of engineering that has been refined over millennia, you'd be insane to start pouring concrete without a detailed plan. The same for the foundations of a bank or for a highway. The reason for this is that the knowledge of how to apply the laws of physics and chemistry to these problems is well established and deeply understood. But like I mentioned earlier, software development is necessarily research. There was a time when the art of bridge building was just that an art, not a science. I believe that software engineering is in its adolescence. We are still in the long, probably centuries long, process of establishing what the right way to do things in software is. So the art of creating software is the art of creating knowledge. This knowledge can be created badly in the form of incomprehensible code that can only be understood by the creator or well in the form of self‑documenting and well‑documented content. This knowledge can be locked in the head of a developer or it could be domain knowledge for the team distributed by pair programming, code reviews, and the occasional entry in the project wiki. Principle three, create knowledge. When you complete a function, ask how well have I created knowledge? Does the name of the function describe the knowledge? Does the unit test? Have I made logical choices in the execution of the function that described the nature of the problem I'm trying to solve?
 ```
 
 ## Notes
+Creating knowledge in software development is a crucial principle that aligns with Lean software development. It emphasizes the importance of documenting and disseminating information throughout the development process. Here are key aspects of creating knowledge in software development:
+
+1. **Clear Documentation:** Documenting code, design decisions, and system architecture is essential. It helps team members understand how different parts of the software work and the rationale behind design choices. Well-documented code is easier to maintain and extend.
+
+2. **Self-Documenting Code:** Write code that is self-explanatory and easy to understand. Use meaningful variable and function names, and provide comments when necessary. Self-documenting code reduces the need for extensive external documentation.
+
+3. **Collaboration:** Foster a culture of collaboration and knowledge sharing within the development team. Techniques like pair programming and code reviews allow team members to learn from each other and contribute to creating shared knowledge.
+
+4. **Project Wiki:** Maintain a project wiki or knowledge base where important project-related information is stored. This can include design documents, coding standards, deployment procedures, and best practices.
+
+5. **Unit Tests:** Unit tests serve as executable documentation. They not only verify the correctness of code but also provide examples of how code should be used. Well-written unit tests help developers understand the expected behavior of functions and classes.
+
+6. **Domain Knowledge Sharing:** Ensure that domain-specific knowledge is distributed across the team. Developers should have a good understanding of the problem domain they are working in, and this knowledge should be shared through discussions and documentation.
+
+7. **Continuous Learning:** Encourage continuous learning and skill development within the team. Staying updated with new technologies and industry best practices contributes to the creation of knowledge.
+
+8. **Retrospectives:** Conduct regular retrospectives to reflect on the development process and identify areas where knowledge creation can be improved. Retrospectives promote a culture of continuous improvement.
+
+9. **Knowledge Transfer:** Ensure that knowledge is not concentrated in the hands of a few individuals. Cross-train team members so that multiple team members have expertise in different areas of the project.
+
+10. **Version Control:** Use version control systems effectively to track changes in code and documentation. This ensures that historical knowledge is preserved and accessible.
+
+Creating knowledge in software development is not only about producing working code but also about making that code and related information understandable and accessible to the entire team. It enhances collaboration, reduces the risk of knowledge silos, and contributes to the long-term maintainability and success of software projects.

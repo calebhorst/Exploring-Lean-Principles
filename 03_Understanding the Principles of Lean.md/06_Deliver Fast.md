@@ -1,6 +1,22 @@
-## 
+## Deliver Fast
 ```
-
+In software, speed is life. Speed requires leaving anything that is not necessary behind, leaving behind everything that could be waste. Again, a civil engineering mindset tells you to go slowly and be careful, but speed presses discipline into a process. This principle, of course, has to be married with the preceding and succeeding principles. Speed is not an excuse to fail to build quality in, but without a principle of delivering your content quickly, you will fail to defer commitment and you'll languish in requirements. On a particular project I worked on, the client couldn't decide whether or not to use Oracle or SQL Server for the backing data store. There was a good case to be made for both, Oracle because this company had some Oracle expertise in house and SQL Server because the licensing was much cheaper at that time. This indecision went on for several weeks while I was working on other aspects of the system. The well of features that I could work on without that backing store had dried up. So I quickly worked up a system of XML docs that acted as a database for the content, intending this to be replaced with the store of choice later on. This allowed me to move ahead on the rest of the features. Once that store was in place, the client had to compare the cost of SQL Server and Oracle not against each other, but against the document store he'd already paid for. As you can imagine, the application ended up using that doc store forever. One thing I would do differently now, maybe, I didn't adequately defer commitment with that XML store. If the customer had made the decision to move to either Oracle or SQL Server, it would have required making some shifts in the data layer. Shifts I probably could have abstracted better in my initial pass. Maybe. Or maybe I got it right in the first place. We'll revisit this question with waste form of extra features in the next section. Something to keep in mind, deliver fast and defer commitment can be at odds with each other, but they don't have to be. Another quick story to underline the discipline that speed impresses on processes. Aside from being an engineer, I'm also a guitarist. When you work up a song on guitar, you start with a metronome at slow speed. This allows you to grasp the basics of the fretting and picking. At this point, your finger position and pressure, the angle of the pick, these things could be very imprecise. But as you increase the speed of that metronome, a small imprecision in finger pressure makes the string buzz, so you fix that. As the speed increases your fingers step on each other, so the position must be mastered. If you keep the metronome at a slow tempo, you never have to solve these problems. You never have to improve. But when you do, regardless of the tempo of the song, everything you play sounds better. Speed is life.
 ```
 
 ## Notes
+"Speed is life" is a crucial principle in Lean software development, emphasizing the importance of delivering value quickly and efficiently. Here's a breakdown of this principle:
+
+**Speed is Life:**
+- In the context of software development, speed refers to the ability to deliver valuable features and functionality to users as quickly as possible.
+- Speed is a competitive advantage in the software industry, as it allows companies to respond to customer needs, market changes, and emerging opportunities rapidly.
+- It doesn't mean rushing through development without proper planning or quality assurance. Instead, it's about optimizing the development process to eliminate waste, reduce lead times, and improve efficiency.
+- Speed requires a disciplined approach to decision-making, prioritization, and execution. It encourages teams to focus on what's essential and avoid unnecessary delays.
+- While speed is essential, it should not come at the expense of quality. Building quality into the software, as discussed in a previous principle, remains a fundamental aspect of Lean software development.
+
+**Balancing Principles:**
+- "Speed is life" should be balanced with other Lean principles like "build quality in" and "defer commitment."
+- Building quality into the software ensures that speed doesn't compromise the reliability, security, or usability of the product.
+- Deferring commitment allows teams to make informed decisions at the right time, preventing hasty choices that may lead to costly rework.
+- Speed is about delivering value quickly, but that value should align with customer needs and expectations. Effective communication with stakeholders and users is crucial to achieve this balance.
+
+In summary, "Speed is life" emphasizes the importance of agility and efficiency in software development. It encourages teams to focus on delivering value promptly while maintaining the necessary discipline and quality standards. Speed, when combined with other Lean principles, can lead to a more responsive and competitive software development process.
