@@ -1,6 +1,11 @@
-## 
+## Handoffs
 ```
-
+I worked at a company that I loved for eight years, and I decided it was time to move on to some new challenges. I had a number of projects that I had created and run over the years for the company, and we had a new hire who was to take them over after I left. I wrote something like 50 total pages of Word documents with diagrams, spent hours documenting and commenting the code, and finally days sitting with the new guy, teaching him how to run this. This is the obvious form of handoff. The list obvious form of handoff is the game of telephone that arises as a customer request makes its way from the front line of communications to a consultant, to a manager, to a developer. For one of the customers we did work for at that company, we also offered phone support to via Zendesk. We had something like 15 interns fielding calls and entering data into our support system, and these would either get handled with the admin tools I created or they would land on my plate. By the time they landed on my plate, I almost always simply picked up my phone and called the customer directly, something which never fail to surprise the customer. The alternative was for me to go back to my manager, who would talk to the intern, who had probably emailed the customer with the problem, only for all that information to work its way back to me, eventually. To wrap up handoffs, the new hire left the company about two months after I did, a circumstance probably not entirely unrelated to my departure. He did his best to hand off these systems to another developer, but the game of telephone had taken its toll, and ultimately the company lost those multiyear projects that had been my work while I was there. Those projects fell victim to the waste of handoffs.
 ```
 
 ## Notes
+- Handoffs in software development can occur in different forms, from clear documentation and training to communication breakdowns.
+- Clear and comprehensive documentation, along with proper training, is the obvious and effective form of handoff to ensure a smooth transition when someone takes over a project.
+- On the contrary, the game of telephone, where information passes through multiple intermediaries, can lead to misunderstandings, delays, and inefficiencies.
+- In some cases, direct communication with customers or stakeholders can bypass unnecessary handoffs and streamline issue resolution or project management.
+- Failing to manage handoffs effectively can result in project disruptions and, in extreme cases, the loss of critical projects or clients.

@@ -1,6 +1,13 @@
-## 
+## Partially Done Work
 ```
-
+The equivalent of inventory waste in software is partially done work. One company I worked at had a design team that produced excellent work and performed very well for the company. But the team was constantly overstressed and behind schedule. It didn't take much digging to find the reason why. The team would regularly produce full design content, complete with customer approval only to have one of the higher ups in the company swoop in and demand a redesign, usually over the weekend. It would be easy to say that the exec should just keep his nose out of the design process, but the final result was often improved by the review. The problem was not the review itself, but when it happened. It needed to happen earlier in the process, before the design premises were pursued to completion. This was, in theory, a problem easy to solve. But the exec was an owner of the small company, and his lifestyle didn't accommodate being consistently available for the review earlier in the process and because the company wasn't implementing the Lean principal of respect people, no one dared press the issue. Software work that is incomplete is partially done work. No kidding, you might say, but software work can be incomplete in non‑obvious ways. Continuous integration is entirely an effort designed to mitigate the risk of work being incomplete because it has not been integrated with the work of others in the code base. Continuous deployment, whereby automated systems build, test, and deploy code entirely without human intervention after the obvious and profound initial involvement of humans, is an effort designed to mitigate the risk of undeployed code, another form of partially done work. Whatever is necessary to be sure that, not merely think that, something is done is part of the work of the story. If a story can't be done until it's tested, testing as part of the story, not a separate thing. If it's not done until it's documented, deployed, you get the picture.
 ```
 
 ## Notes
+- Partially done work in software is equivalent to inventory waste in manufacturing.
+- Incomplete work can lead to various problems, including delays and rework.
+- One example involved a design team facing constant redesign requests from higher-ups.
+- Redesigns occurred late in the process, causing stress and delays.
+- Continuous integration and deployment are strategies to mitigate partially done work.
+- Completeness of a task should encompass all necessary steps, such as testing, documentation, and deployment.
+- Ensuring that something is genuinely done, not just assumed to be done, is essential.
